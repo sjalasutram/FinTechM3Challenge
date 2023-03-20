@@ -4,7 +4,7 @@ This repository contains the working python code for Module 3 Challenge
 Crypto Arb is jupyter notebook that contains the python programming to collect, cleanse and analyze
 data of Bitcoin price for a timeline, between two exchanges.
 
-![Bitstamp vs Coinbase](Resources/bitstamp_vs_coinbase_all.jpg)
+![Bitstamp vs Coinbase](Starter_Code/Resources/bitstamp_vs_coinbase_all.jpg)
 
 ---
 
